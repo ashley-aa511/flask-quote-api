@@ -14,3 +14,9 @@ pip install -r requirements.txt
 
 # Run the app
 python app.py
+
+### 🚀 Live API
+
+My Flask Quote API is live at:
+
+🔗 [https://flask-quote-api.onrender.com/quote](https://flask-quote-api.onrender.com/quote)
